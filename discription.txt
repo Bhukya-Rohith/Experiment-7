@@ -1,0 +1,19 @@
+The project demonstrates a React component-based UI for displaying products.
+
+A Card component is created to show individual product details like name, price, and status.
+
+The Card is styled using Card.css with borders, padding, and fixed dimensions.
+
+A ProductCard component serves as the main container for multiple cards.
+
+It imports and uses the Card component three times for different products.
+
+ProductCard.css adds styling for layout, centering, and flexbox alignment.
+
+The .flex-box class arranges product cards in a row with spacing and wrapping.
+
+The app’s entry point is main.jsx, which renders the ProductCard component.
+
+The design separates presentation (CSS) and logic (JSX) for clean structure.
+
+Overall, the project is a mini product catalog UI showcasing component reusability, props, and styling in React.
